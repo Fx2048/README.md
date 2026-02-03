@@ -34,3 +34,6 @@
 - **Email**: brigitte.bernal@upch.pe 
 
 ¡Estoy lista para contribuir al ecosistema R en América Latina! Si buscas colaboradoras motivadas con enfoque interdisciplinario, ¡contáctame! 🚀
+
+## 📈 Estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fx2048&show_icons=true&theme=default)
