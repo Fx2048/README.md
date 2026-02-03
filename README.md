@@ -11,7 +11,7 @@
   - **Cursos Favoritos:
     - Métodos Numéricos de Optimización para Machine Learning (C8281): Aplicación de algoritmos en datos reales, ideal para paquetes R en modelado predictivo.
     - Estadística y Probabilidades (C0503) Bases para análisis estadístico en R (e.g., paquetes como ggplot2 o dplyr para visualización y manipulación).
-  - **Beca**: Beca 18 Modalidad Ordinaria (ingresante por factor excelencia), cubriendo hasta 2027-1.
+  - **Beca**: Beca 18 Modalidad Ordinaria (ingresante por factor excelencia).
 - **Experiencia Adicional**: Pasantía en Laboratorio de Biología Estructural (desde marzo 2025), donde aplico análisis de datos a modelado molecular.
 
 ## Habilidades Técnicas y en R
